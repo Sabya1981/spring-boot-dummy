@@ -1,4 +1,3 @@
-#echo "Branch name: ${BRANCH_NAME}"
 BUILD = 'latest';
 echo "Build: ${BUILD}"
 
